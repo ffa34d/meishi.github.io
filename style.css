@@ -1,0 +1,8 @@
+@font-face {
+    font-family:"nicoca";
+    src: url("nicoca/nicoca_v2.ttf") format("truetype");
+}
+body{
+    color: #ffa34d;
+    font-family: "nicoca";
+}
