@@ -1,0 +1,25 @@
+@font-face {
+    font-family:"nicoca";
+    src: url("nicoca/nicoca_v2.ttf") format("truetype");
+}
+body{
+    color: #FFA34D;
+    font-family: "nicoca";
+}
+nav {
+    background-color: #FFA34D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+  }
+  nav a {
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 8px 16px;
+    margin: 0 5px;
+    border-radius: 4px;
+  }
+  nav a:hover {
+    background-color: #FF7F00;
+  }
